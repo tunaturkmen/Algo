@@ -23,7 +23,7 @@ public class BackgroundColor extends AppCompatActivity {
 
         screen=(RelativeLayout) findViewById(R.id.screen);
         rnd=new Random();
-
+//uyghjk
     }
 
     public void changeBackgroundColor(View view){
